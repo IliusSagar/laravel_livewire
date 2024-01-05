@@ -1,3 +1,5 @@
 <div>
-    Hello World:)
+    <button wire:click="handleClick">
+        Click Me
+    </button>
 </div>

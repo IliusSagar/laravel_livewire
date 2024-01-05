@@ -16,6 +16,8 @@
 
 <body class="antialiased">
     @livewire('clicker')
+
+    @livewireScripts
 </body>
 
 </html>
